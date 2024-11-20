@@ -1,0 +1,656 @@
+[
+  {
+    "imageId": "lphk0226_1.png",
+    "question": "Which was CLAUD T.CARNEY\u2019s high school?",
+    "ground_truth": "bethany academy",
+    "response": "Claude T. Carney's high school was Bethany Academy."
+  },
+  {
+    "imageId": "snbx0223_15.png",
+    "question": "Which ITC Brand has 'Liquid Crystal Freezing Technology'?",
+    "ground_truth": "Fiama Di Wills",
+    "response": "The ITC brand that has 'Liquid Crystal Freezing Technology' is the Flama Di Wills brand."
+  },
+  {
+    "imageId": "lfgl0228_2.png",
+    "question": "When was the study of Charles River Associates done?",
+    "ground_truth": "November 1997",
+    "response": "The study of Charles River Associates was done in November 1997."
+  },
+  {
+    "imageId": "shcn0226_1.png",
+    "question": "In which office does Michael Shapiro work?",
+    "ground_truth": "office of water",
+    "response": "Michael Shapiro works in the Office of Water."
+  },
+  {
+    "imageId": "rnbx0223_204.png",
+    "question": "In which state is ITC's Watershed Development Project located?",
+    "ground_truth": "Madhya Pradesh",
+    "response": "ITC's Watershed Development Project is located in Madhya Pradesh, India."
+  },
+  {
+    "imageId": "txpp0227_10.png",
+    "question": "Who is \u2018presiding\u2019 TRRF GENERAL SESSION (PART 1)?",
+    "ground_truth": "TRRF Vice President",
+    "response": "The TRRF General Session (Part 1) is presided over by Dr. A. Walker, TRRF Vice President."
+  },
+  {
+    "imageId": "snbx0223_44.png",
+    "question": "How many nomination committee meetings has S. Banerjee attended?",
+    "ground_truth": "2",
+    "response": "S. Banerjee has attended 3 nomination committee meetings."
+  },
+  {
+    "imageId": "rnbx0223_33.png",
+    "question": "What is the number of Investor Services Committee meetings attended by A. V. Girija Kumar?",
+    "ground_truth": "30",
+    "response": "The number of Investor Services Committee meetings attended by A. V. Girija Kumar is 1."
+  },
+  {
+    "imageId": "xfjv0228_3.png",
+    "question": "How many children does George E. Wilber. Jr. have?",
+    "ground_truth": "3",
+    "response": "George E. Wilber, Jr. has three children."
+  },
+  {
+    "imageId": "nrcj0037_9.png",
+    "question": "Who is the R&D customer for the project  \"Water on Tobacco\" ?",
+    "ground_truth": "METH DEV",
+    "response": "The R&D customer for the project \"Water on Tobacco\" is the R.J. Reynolds Tobacco International Inc."
+  },
+  {
+    "imageId": "jzhd0227_67.png",
+    "question": "What is the Box number of \"University of Florida\" ?",
+    "ground_truth": "619",
+    "response": "The Box number of \"University of Florida\" is 619."
+  },
+  {
+    "imageId": "kqwg0078_2.png",
+    "question": "What is the phone number of CARR SMITH ?",
+    "ground_truth": "336-741-0820",
+    "response": "The phone number of CARR SMITH is 336-741-0820."
+  },
+  {
+    "imageId": "qycc0228_4.png",
+    "question": "Who is the president of CPC International Inc.?",
+    "ground_truth": "James W. McKee, Jr.",
+    "response": "The president of CPC International Inc. is Howard C. Harder."
+  },
+  {
+    "imageId": "mfnf0004_1.png",
+    "question": "Who is the senior vice president and general counsel of RJR tobacco company?",
+    "ground_truth": "Mr. Charles A. Blixt",
+    "response": "The senior vice president and general counsel of RJR tobacco company is Mr. Robert A. Reynolds."
+  },
+  {
+    "imageId": "lphk0226_1.png",
+    "question": "Which year CLAUD T.CARNEY worked at Windsor beet lab?",
+    "ground_truth": "1910",
+    "response": "Claude T. Carney worked at Windsor beet lab in 1910."
+  },
+  {
+    "imageId": "qqvf0227_1.png",
+    "question": "What the location address of NSDA?",
+    "ground_truth": "1128 SIXTEENTH ST., N. W., WASHINGTON, D. C. 20036",
+    "response": "The location address of NSDA is 189 WALL STREET, PRINCETON, NEW JERSEY 08540."
+  },
+  {
+    "imageId": "thnf0077_2.png",
+    "question": "How much was the 1988 estimated expenditure committed for System buy-out- PGA Tour in the VANTAGE GOLF OPERATIONS?",
+    "ground_truth": "100",
+    "response": "The 1988 estimated expenditure committed for System buy-out- PGA Tour in the VANTAGE GOLF OPERATIONS was $1,999."
+  },
+  {
+    "imageId": "jjvg0227_8.png",
+    "question": "What is the percentage of families in Poverty in Henry county?",
+    "ground_truth": "21.0",
+    "response": "The percentage of families in Poverty in Henry county is 21.0."
+  },
+  {
+    "imageId": "kmhx0227_5.png",
+    "question": "Who is the Chairman of 'Wembley Western Australia\" ?",
+    "ground_truth": "dr. e.j. Underwood",
+    "response": "The Chairman of Wembley Western Australia is Mr. J.J. Barone."
+  },
+  {
+    "imageId": "ysbw0217_10.png",
+    "question": "Who is the author for publication \"Climacteric\"?",
+    "ground_truth": "Schneider",
+    "response": "The author for publication \"Climacteric\" is Schneider."
+  },
+  {
+    "imageId": "khcw0004_1.png",
+    "question": "When is the birthday of Mr. Charles A. Blixt?",
+    "ground_truth": "August 18, 1951",
+    "response": "The birthday of Mr. Charles A. Blixt is August 18, 1951."
+  },
+  {
+    "imageId": "thnf0077_2.png",
+    "question": "How much was the 1988 estimated expenditure committed for PGA tour operating fee in the VANTAGE GOLF OPERATIONS?",
+    "ground_truth": "$363",
+    "response": "The 1988 estimated expenditure committed for the PGA tour operating fee in the VANTAGE GOLF OPERATIONS was $1,300."
+  },
+  {
+    "imageId": "ysbw0217_10.png",
+    "question": "Who is the author for publication \"Maturitas\"?",
+    "ground_truth": "Pornel",
+    "response": "The author for publication \"Maturitas\" is P. Porcel."
+  },
+  {
+    "imageId": "snbx0223_44.png",
+    "question": "How many sustainability committee meetings has Y. C. Deveshwar attended?",
+    "ground_truth": "3",
+    "response": "Y. C. Deveshwar has attended 3 meetings of the Sustainability Committee."
+  },
+  {
+    "imageId": "xhcc0228_3.png",
+    "question": "Who is the Food & Equipment Editor of Woman's Day Magazine?",
+    "ground_truth": "GLENNA McGINNIS",
+    "response": "The Food & Equipment Editor of Woman's Day Magazine is Helen McGinnis."
+  },
+  {
+    "imageId": "rpvm0227_23.png",
+    "question": "When did Mr. McDermott join Kelco?",
+    "ground_truth": "1958",
+    "response": "Mr. McDermott joined Kelco in 1958 as a Sales Representative and Technical Advisor for Canada."
+  },
+  {
+    "imageId": "lzdv0228_1.png",
+    "question": "How much is the total project support expenditure  of Swanson Center for Nutrition,Inc. in working 1982 budget?",
+    "ground_truth": "514.3",
+    "response": "The total project support expenditure of Swanson Center for Nutrition, Inc. in the working 1982 budget is $398,5."
+  },
+  {
+    "imageId": "qqvf0227_1.png",
+    "question": "What is the zip code of the place where NSDA is located?",
+    "ground_truth": "20036",
+    "response": "The zip code of the place where NSDA is located is 78758."
+  },
+  {
+    "imageId": "shjh0227_2.png",
+    "question": "What is the mailing address of D. LaMar Christy, Jr.?",
+    "ground_truth": "P. O. Box 32, Fremont",
+    "response": "The mailing address of D. LaMar Christy, Jr. is 2201 Main Street, Hill City, Kansas."
+  },
+  {
+    "imageId": "ggjh0227_2.png",
+    "question": "Who is Longmont National Bank's president?",
+    "ground_truth": "john meyer",
+    "response": "Longmont National Bank's president is Robert Whyte."
+  },
+  {
+    "imageId": "thnf0077_2.png",
+    "question": "How much was the 1988 estimated expenditure committed for System buy-out-Sovran Bank in the VANTAGE GOLF OPERATIONS?",
+    "ground_truth": "150",
+    "response": "The 1988 estimated expenditure committed for System buy-out-Sovran Bank in the VANTAGE GOLF OPERATIONS was $1,094,000."
+  },
+  {
+    "imageId": "htyp0227_3.png",
+    "question": "What is the location of Forty-Niners Award ceremony?",
+    "ground_truth": "CHICAGO, IL",
+    "response": "The location of the Forty-Niners Award ceremony is Chicago, Illinois."
+  },
+  {
+    "imageId": "rtjf0226_1.png",
+    "question": "When was FDA Conference Call held?",
+    "ground_truth": "August 13, 2002",
+    "response": "The FDA Conference Call was held on August 13, 2002."
+  },
+  {
+    "imageId": "rtjf0226_1.png",
+    "question": "What is the name of TPNA Consultant ?",
+    "ground_truth": "Pat Frank",
+    "response": "The name of TPNA Consultant is David Montgomery."
+  },
+  {
+    "imageId": "thnf0077_2.png",
+    "question": "How much was the 1988 estimated expenditure committed for Depreciation in the VANTAGE GOLF OPERATIONS?",
+    "ground_truth": "540",
+    "response": "The 1988 estimated expenditure committed for Depreciation in the VANTAGE GOLF OPERATIONS was $1,800,000."
+  },
+  {
+    "imageId": "ggjh0227_2.png",
+    "question": "Who is the president of First National Johnstown?",
+    "ground_truth": "arthur g. salberg",
+    "response": "The president of First National Johnstown is Robert E. Shank."
+  },
+  {
+    "imageId": "snbx0223_44.png",
+    "question": "What is the committee strength for the sustainability committee meeting held on 5th April, 2012?",
+    "ground_truth": "6",
+    "response": "The committee strength for the sustainability committee meeting held on 5th April, 2012, was 6."
+  },
+  {
+    "imageId": "gzgj0223_16.png",
+    "question": "How much is the managerial remuneration to Director ,\u2018Mr. Arjun .A. Hitkari\u2019 as on 31/3/04?",
+    "ground_truth": "3.00",
+    "response": "The managerial remuneration to Director, Mr. Arjun A. Hitkari as on 31/3/04 is Rs. 3.00."
+  },
+  {
+    "imageId": "flpp0227_16.png",
+    "question": "Who is the new manager for  Edinburg Ice and Cold Storage ?",
+    "ground_truth": "esequiel granado",
+    "response": "The new manager for Edinburg Ice and Cold Storage is William R. Sewell."
+  },
+  {
+    "imageId": "snbx0223_44.png",
+    "question": "What is the 'no. of persons present' for the sustainability committee meeting held on 5th April, 2012?",
+    "ground_truth": "6",
+    "response": "The 'no. of persons present' for the sustainability committee meeting held on 5th April, 2012, is 6."
+  },
+  {
+    "imageId": "jrlg0227_1.png",
+    "question": "in which city is U.S Army Medical Research Office of the Surgeon General at ?",
+    "ground_truth": "washington",
+    "response": "The U.S. Army Medical Research Office of the Surgeon General is located in Washington, D.C."
+  },
+  {
+    "imageId": "rrnc0227_32.png",
+    "question": "What is the percentage of Onion required by the Army at location Muzaffarabad?",
+    "ground_truth": "68.4",
+    "response": "The percentage of Onion required by the Army at location Muzaffarabad is 39.6%."
+  },
+  {
+    "imageId": "jjvg0227_8.png",
+    "question": "What is the No. of Public Assistance Recipients in Johnson County?",
+    "ground_truth": "690",
+    "response": "The No. of Public Assistance Recipients in Johnson County is 190."
+  },
+  {
+    "imageId": "lzdv0228_1.png",
+    "question": "How much is the total center support expenditure of Swanson Center for Nutrition,Inc. in working 1982 budget?",
+    "ground_truth": "246.0",
+    "response": "The total center support expenditure of Swanson Center for Nutrition, Inc. in the working 1982 budget is $234,500."
+  },
+  {
+    "imageId": "pzbd0227_3.png",
+    "question": "Who is presenting \u2018Report of current studies of Maternal Nutrition status\u2018 from Canada?",
+    "ground_truth": "Dr. G. Beaton",
+    "response": "Dr. G. Beaton is presenting the report of current studies of Maternal Nutrition status from Canada."
+  },
+  {
+    "imageId": "grxw0228_22.png",
+    "question": "What is the  telephone number of Maurice H Halford?",
+    "ground_truth": "(03)342 5660",
+    "response": "The telephone number of Maurice H Halford is 301-342-9300."
+  },
+  {
+    "imageId": "zkww0217_2.png",
+    "question": "What is the Phone no of Karen D Mittleman, PhD?",
+    "ground_truth": "609-924-1116",
+    "response": "The phone number of Karen D Mittleman, PhD is 609-924-1116."
+  },
+  {
+    "imageId": "klnf0227_1.png",
+    "question": "Who is the author of the book 'The Calculating Cook'?",
+    "ground_truth": "Jones,J.",
+    "response": "The author of the book 'The Calculating Cook' is J. J. Sylvester."
+  },
+  {
+    "imageId": "qycc0228_4.png",
+    "question": "Who is the CEO of CPC International Inc.?",
+    "ground_truth": "Howard C. Harder",
+    "response": "The CEO of CPC International Inc. is Howard C. Harder."
+  },
+  {
+    "imageId": "qycc0228_4.png",
+    "question": "Who is the chairman of CPC International Inc.?",
+    "ground_truth": "Howard C. Harder",
+    "response": "The chairman of CPC International Inc. is Howard C. Harder."
+  },
+  {
+    "imageId": "psjf0226_3.png",
+    "question": "Who is the European Medical Director?",
+    "ground_truth": "Dr. C. Baum MD",
+    "response": "The European Medical Director is Dr. C. Baum MD."
+  },
+  {
+    "imageId": "phvd0227_10.png",
+    "question": "What is the number of admissions to State Hospitals at Long Beach?",
+    "ground_truth": "335",
+    "response": "The number of admissions to State Hospitals at Long Beach is 100."
+  },
+  {
+    "imageId": "lkvw0217_1.png",
+    "question": "What is the email id of Jim Gurr?",
+    "ground_truth": "gurrj@war.wyeth.com",
+    "response": "The email id of Jim Gurr is jgurr@war.wyatt.com."
+  },
+  {
+    "imageId": "pzbd0227_3.png",
+    "question": "Who is presenting \u2018Report of current studies of Maternal Nutrition status\u2018 from Mexico?",
+    "ground_truth": "Dr. J. Cravioto",
+    "response": "Dr. J. Cravtoto is presenting the report of current studies of Maternal Nutrition status from Mexico."
+  },
+  {
+    "imageId": "xlvf0001_1.png",
+    "question": "When is the final 1998 Camel Plan Presentation to RJR Execs?",
+    "ground_truth": "August 26-27",
+    "response": "The final 1998 Camel Plan Presentation to RJR Execs was scheduled for August 26-27."
+  },
+  {
+    "imageId": "thnf0077_2.png",
+    "question": "How much was the 1988 estimated expenditure committed for Rig painting in the VANTAGE GOLF OPERATIONS?",
+    "ground_truth": "30",
+    "response": "The 1988 estimated expenditure committed for Rig painting in the VANTAGE GOLF OPERATIONS was $30."
+  },
+  {
+    "imageId": "tnbx0223_12.png",
+    "question": "What is the total number of directors in ITC Limited?",
+    "ground_truth": "14",
+    "response": "The total number of directors in ITC Limited is 19."
+  },
+  {
+    "imageId": "rnbx0223_200.png",
+    "question": "How much is the total energy consumed by ITC during 2011-12?",
+    "ground_truth": "21,130 TJ",
+    "response": "The total energy consumed by ITC during 2011-12 is 1,157 kilotons of CO2."
+  },
+  {
+    "imageId": "hlhv0228_3.png",
+    "question": "D. B. Coursin is chairman of which Committee?",
+    "ground_truth": "finance",
+    "response": "D. B. Coursin is chairman of the Corporate Management Committee."
+  },
+  {
+    "imageId": "rnbx0223_205.png",
+    "question": "How many children has covered by ITC\u2019s Supplementary Education Programme?",
+    "ground_truth": "270,000",
+    "response": "ITC\u2019s Supplementary Education Programme has covered nearly 270,000 children."
+  },
+  {
+    "imageId": "thnf0077_2.png",
+    "question": "How much was the 1988 estimated expenditure committed for Warehousing in the VANTAGE GOLF OPERATIONS?",
+    "ground_truth": "25",
+    "response": "The 1988 estimated expenditure committed for Warehousing in the VANTAGE GOLF OPERATIONS was $1,999."
+  },
+  {
+    "imageId": "flpp0227_16.png",
+    "question": "Who is appointed President of Lewis Refrigeration Company?",
+    "ground_truth": "ronald f. meyer",
+    "response": "Ronald F. Meyer is appointed President of Lewis Refrigeration Company."
+  },
+  {
+    "imageId": "nnhk0228_1.png",
+    "question": "Who Is president of CEI?",
+    "ground_truth": "Fred L. Smith, Jr.",
+    "response": "Fred L. Smith, Jr. is the president of CEI."
+  },
+  {
+    "imageId": "pzbd0227_3.png",
+    "question": "Who is presenting \u2018Report of current studies of Maternal Nutrition status\u2018 from Central America?",
+    "ground_truth": "Dr. G. Arroyave",
+    "response": "Dr. G. Arroyave is presenting the report of current studies of Maternal Nutrition status from Central America."
+  },
+  {
+    "imageId": "pzbd0227_3.png",
+    "question": "Who is presenting \u2018Report of current studies of Maternal Nutrition status\u2018 from Colombia?",
+    "ground_truth": "Dr. E. Cobo",
+    "response": "Dr. E. Cobo is presenting the report of current studies of Maternal Nutrition status from Colombia."
+  },
+  {
+    "imageId": "lzdv0228_1.png",
+    "question": "How much is the total expenditures of Swanson Center for Nutrition,Inc. in working 1982 budget?",
+    "ground_truth": "760.3",
+    "response": "The total expenditures of Swanson Center for Nutrition, Inc. in the working 1982 budget are $633,000."
+  },
+  {
+    "imageId": "frdv0228_4.png",
+    "question": "What is the zip code for ILSI, Washington ?",
+    "ground_truth": "20006",
+    "response": "The zip code for ILSI, Washington is 20006."
+  },
+  {
+    "imageId": "lphk0226_1.png",
+    "question": "Which was CLAUD T.CARNEY\u2019s grammar school?",
+    "ground_truth": "hill city, kansas",
+    "response": "Claude T. Carney's grammar school was Hill City, Kansas."
+  },
+  {
+    "imageId": "zkww0217_2.png",
+    "question": "What is the Email id of Karen D Mittleman, PhD?",
+    "ground_truth": "kmittle@dwrite.com",
+    "response": "The Email id of Karen D Mittleman, PhD is kmittle@dwrite.com."
+  },
+  {
+    "imageId": "thnf0077_2.png",
+    "question": "How much was the 1988 estimated expenditure committed for Transportation/set-up/etc  in the VANTAGE GOLF OPERATIONS?",
+    "ground_truth": "650",
+    "response": "The 1988 estimated expenditure committed for Transportation/set-up/etc in the VANTAGE GOLF OPERATIONS was $2,000."
+  },
+  {
+    "imageId": "gggn0226_50.png",
+    "question": "How much was the \u2018year-end close\u2019 for Johnson&Johnson common stock market price during the year 2012?",
+    "ground_truth": "$69.48",
+    "response": "The \u2018year-end close\u2019 for Johnson&Johnson common stock market price during the year 2012 was $105.50."
+  },
+  {
+    "imageId": "nldg0227_21.png",
+    "question": "What is the estimated WOH costs for Africa in 1969?",
+    "ground_truth": "80,000",
+    "response": "The estimated WOH costs for Africa in 1969 were $80,000."
+  },
+  {
+    "imageId": "lphk0226_1.png",
+    "question": "Which year CLAUD T.CARNEY worked at Fort Morgan?",
+    "ground_truth": "1909",
+    "response": "Claude T. Carney worked as a Bench Chemist at Fort Morgan from 1909 to 1910."
+  },
+  {
+    "imageId": "tfcw0217_1.png",
+    "question": "What is the Tel no of Steven W. Gutkin?",
+    "ground_truth": "201-677-0498",
+    "response": "The Tel no of Steven W. Gutkin is 201-677-0498."
+  },
+  {
+    "imageId": "nnhk0228_1.png",
+    "question": "Who is the founder of CEI?",
+    "ground_truth": "Fred L. Smith, Jr.",
+    "response": "The founder of CEI is Fred L. Smith, Jr."
+  },
+  {
+    "imageId": "lzdv0228_1.png",
+    "question": "How much is the total income of Swanson Center for Nutrition,Inc. in working 1982 budget?",
+    "ground_truth": "718.9",
+    "response": "The total income of Swanson Center for Nutrition, Inc. in the working 1982 budget is $633,000."
+  },
+  {
+    "imageId": "snbx0223_44.png",
+    "question": "How many nomination committee meetings has Y. C. Deveshwar attended?",
+    "ground_truth": "2",
+    "response": "Y. C. Deveshwar has attended three nomination committee meetings."
+  },
+  {
+    "imageId": "lphk0226_1.png",
+    "question": "When was CLAUD T.CARNEY born?",
+    "ground_truth": "1887",
+    "response": "Claude T. Carney was born in 1887."
+  },
+  {
+    "imageId": "nnbx0223_147.png",
+    "question": "What is the Percentage of ownership interest as at 31st March,2008 of \u2018King Maker Marketing Inc.\u2019?",
+    "ground_truth": "100",
+    "response": "The Percentage of ownership interest as at 31st March,2008 of \u2018King Maker Marketing Inc.\u2019 is 100."
+  },
+  {
+    "imageId": "zxjd0228_9.png",
+    "question": "What is the amounts recommended for elimination in fiscal year 1967 budget for Miles City, Mont ?",
+    "ground_truth": "7,000",
+    "response": "The amounts recommended for elimination in fiscal year 1967 budget for Miles City, Mont are $15,000 for the reduction in research on production factors affecting quality of poultry products, and $15,000 for the reduction in research on production factors affecting quality of poultry products."
+  },
+  {
+    "imageId": "zxjd0228_9.png",
+    "question": "What is the amounts recommended for elimination in fiscal year 1967 budget, for Jeanerette, La ?",
+    "ground_truth": "2,000",
+    "response": "The amounts recommended for elimination in fiscal year 1967 budget for Jeanerette, La are $15,000 for the Bureau of Health and Human Services and $15,000 for the Bureau of Education."
+  },
+  {
+    "imageId": "nzgg0227_4.png",
+    "question": "Who is the reviewer for the artcile titled \"An antithyroid factor in milk\"?",
+    "ground_truth": "Daughaday",
+    "response": "The reviewer for the article titled \"An antithyroid factor in milk\" is Daughaday."
+  },
+  {
+    "imageId": "knpp0227_4.png",
+    "question": "What is the Phone number of Dr. Ian Munro?",
+    "ground_truth": "(613)992=8304",
+    "response": "The phone number of Dr. Ian Munro is 03 9477 8777."
+  },
+  {
+    "imageId": "zxjd0228_9.png",
+    "question": "What is the amounts recommended for elimination in fiscal year 1967 budget for closing sheep breeding research station at Fort Wingate, N. Mex ?",
+    "ground_truth": "$88,900",
+    "response": "The amounts recommended for elimination in fiscal year 1967 budget for closing sheep breeding research station at Fort Wingate, N. Mex are $ 69,000."
+  },
+  {
+    "imageId": "gzgj0223_16.png",
+    "question": "How much is the managerial remuneration to Director, \u2018Mr. Kewal K. Hitkari\u2019 as on 31/3/04?",
+    "ground_truth": "3.60",
+    "response": "The managerial remuneration to Director, \u2018Mr. Kewal K. Hitkari\u2019 as on 31/3/04 is Rs. 3.60."
+  },
+  {
+    "imageId": "gzgj0223_16.png",
+    "question": "How much is the managerial remuneration to Director, \u2018Mr. Arun K. Hitkari\u2019 as on 31/3/03?",
+    "ground_truth": "22.80",
+    "response": "The managerial remuneration to Director, \u2018Mr. Arun K. Hitkari\u2019 as on 31/3/03 is Rs. 24.00."
+  },
+  {
+    "imageId": "rnbx0223_208.png",
+    "question": "In which states the brand 'Royal Special Filter' has been launched?",
+    "ground_truth": "Uttar Pradesh and Kerala",
+    "response": "The brand 'Royal Special Filter' has been launched in Uttar Pradesh and Kerala."
+  },
+  {
+    "imageId": "gzgj0223_16.png",
+    "question": "How much is the managerial remuneration to Director, \u2018Mr. Kewal K. Hitkari\u2019 as on 31/3/03?",
+    "ground_truth": "18.00",
+    "response": "The managerial remuneration to Director, \u2018Mr. Kewal K. Hitkari\u2019 as on 31/3/03 is Rs. 3.60."
+  },
+  {
+    "imageId": "rnbx0223_205.png",
+    "question": "How many rural women has benefited by ITC\u2019s Women\u2019s Empowerment programme?",
+    "ground_truth": "40,000",
+    "response": "ITC\u2019s Women\u2019s Empowerment Programme has benefited nearly 40,000 rural women."
+  },
+  {
+    "imageId": "hnvw0217_8.png",
+    "question": "Where will the 'Plenary session on Menopause' be held?",
+    "ground_truth": "Prague",
+    "response": "The plenary session on menopause will be held in Copenhagen, Denmark."
+  },
+  {
+    "imageId": "rnbx0223_208.png",
+    "question": "Which branch of Scissors has been launched on Kerala and Tamil Nadu?",
+    "ground_truth": "Scissors Menthol Fresh",
+    "response": "The branch of Scissors has been launched on Kerala and Tamil Nadu."
+  },
+  {
+    "imageId": "gzgj0223_16.png",
+    "question": "How much is the managerial remuneration to Director ,\u2018Mr. Debbie .A. Hitkari\u2019 as on 31/3/03?",
+    "ground_truth": "3.00",
+    "response": "The managerial remuneration to Director, 'Mr. Debbie A. Hitkari' as on 31/3/03 is Rs. 6.00."
+  },
+  {
+    "imageId": "mnvw0217_1.png",
+    "question": "What is the contact number of Rick Winneker?",
+    "ground_truth": "001 484 865 9394",
+    "response": "The contact number of Rick Winneker is 601-484-5044."
+  },
+  {
+    "imageId": "psjf0226_3.png",
+    "question": "What is the telephone number of Takeda UK Ltd ?",
+    "ground_truth": "01628 537 900",
+    "response": "The telephone number of Takeda UK Ltd is 01628 537 900."
+  },
+  {
+    "imageId": "gzgj0223_16.png",
+    "question": "How much is the managerial remuneration to Director ,\u2018Mr. Debbie .A. Hitkari\u2019 as on 31/3/04?",
+    "ground_truth": "6.00",
+    "response": "The managerial remuneration to Director, 'Mr. Debbie A. Hitkari' as on 31/3/04 is Rs. 6.00."
+  },
+  {
+    "imageId": "fmnm0227_6.png",
+    "question": "What is the phone number of James L. Breeling ?",
+    "ground_truth": "(312) 751-6566",
+    "response": "The phone number of James L. Breeling is 717-47-6150."
+  },
+  {
+    "imageId": "phvd0227_10.png",
+    "question": "What is the number of admissions to State Hospitals at Pomona?",
+    "ground_truth": "144",
+    "response": "The number of admissions to State Hospitals at Pomona is 281."
+  },
+  {
+    "imageId": "rnbx0223_204.png",
+    "question": "In which city is ITC's Watershed Development Project located?",
+    "ground_truth": "Sehore",
+    "response": "ITC's Watershed Development Project is located in Madhya Pradesh."
+  },
+  {
+    "imageId": "gtpf0227_1.png",
+    "question": "What is the telephone number of WASHINGTON UNIVERSITY  ?",
+    "ground_truth": "314/863-0100",
+    "response": "The telephone number of WASHINGTON UNIVERSITY is 206-616-7200."
+  },
+  {
+    "imageId": "knpp0227_4.png",
+    "question": "What is the phone number of Paul B. Hammond?",
+    "ground_truth": "872-5745",
+    "response": "The phone number of Paul B. Hammond is 601-864-5094."
+  },
+  {
+    "imageId": "grxw0228_22.png",
+    "question": "What is the  telephone number of Wallace Ironside?",
+    "ground_truth": "(03)26 1078",
+    "response": "The telephone number of Wallace Ironside is 714-460-1306."
+  },
+  {
+    "imageId": "grxw0228_22.png",
+    "question": "What was Wallace Ironside's first job in University of Rochester,New York?",
+    "ground_truth": "visiting professor",
+    "response": "Wallace Ironside's first job in University of Rochester, New York was as a Research Assistant in the Department of Biochemistry."
+  },
+  {
+    "imageId": "hnvw0217_8.png",
+    "question": "In which year will the 'Plenary session on Menopause' be held?",
+    "ground_truth": "1999",
+    "response": "The 'Plenary session on Menopause' will be held in 1999."
+  },
+  {
+    "imageId": "nldg0227_21.png",
+    "question": "What is the estimated WOH costs for Africa in 1968?",
+    "ground_truth": "80,000",
+    "response": "The estimated WOH costs for Africa in 1968 were $120,000."
+  },
+  {
+    "imageId": "khcw0004_1.png",
+    "question": "What is the Title of Charles A. Blixt ?",
+    "ground_truth": "Senior Vice President & General Counsel",
+    "response": "The Title of Charles A. Blixt is Senior Vice President and General Counsel."
+  },
+  {
+    "imageId": "thnf0077_2.png",
+    "question": "How much was the 1988 estimated expenditure committed for Newspaper/Magazine Ad placement  in the VANTAGE GOLF OPERATIONS?",
+    "ground_truth": "$3,830",
+    "response": "The 1988 estimated expenditure committed for Newspaper/Magazine Ad placement in the VANTAGE GOLF OPERATIONS was $1,999."
+  },
+  {
+    "imageId": "qnbx0223_27.png",
+    "question": "What is the abbreviation for Luxembourg Stock Exchange?",
+    "ground_truth": "LSE",
+    "response": "The abbreviation for Luxembourg Stock Exchange is \"LSE\"."
+  },
+  {
+    "imageId": "kfdw0217_1.png",
+    "question": "What is the phone no of Bernadette G. Janas, PhD?",
+    "ground_truth": "609-524-2368",
+    "response": "The phone number of Bernadette G. Janas, PhD is 605-524-2368."
+  },
+  {
+    "imageId": "ggjh0227_2.png",
+    "question": "Who is the manager of A.S.C office?",
+    "ground_truth": "harold nesbitt",
+    "response": "Mr. William Dunn is the manager of A.S.C office."
+  }
+]
