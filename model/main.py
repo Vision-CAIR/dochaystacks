@@ -89,7 +89,7 @@ def main(args):
         # process image first, because the images is the same (the whole dataset) for all questions
         image_path = loop_whole_images(args.dataset, args.image_path)
         images = model.batch_image(image_path)
-        print(len(images))
+
         # response per question
         for source in tqdm(sources):
         

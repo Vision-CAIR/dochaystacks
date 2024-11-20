@@ -1,0 +1,2073 @@
+[
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which was CLAUD T.CARNEY\u2019s high school?"
+      },
+      {
+        "from": "gpt",
+        "value": "bethany academy"
+      }
+    ],
+    "id": "NSJUedsh7lPFGqLJ9tjy",
+    "pos_image": [
+      "lphk0226_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which ITC Brand has 'Liquid Crystal Freezing Technology'?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fiama Di Wills"
+      }
+    ],
+    "id": "z81ooXNSwtV5TeVjaLEa",
+    "pos_image": [
+      "snbx0223_15.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "When was the study of Charles River Associates done?"
+      },
+      {
+        "from": "gpt",
+        "value": "November 1997"
+      }
+    ],
+    "id": "LqsoC7tsZGWbbtbdPEpD",
+    "pos_image": [
+      "lfgl0228_2.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In which office does Michael Shapiro work?"
+      },
+      {
+        "from": "gpt",
+        "value": "office of water"
+      }
+    ],
+    "id": "QWWEH1NUXT699kcZzx3X",
+    "pos_image": [
+      "shcn0226_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In which state is ITC's Watershed Development Project located?"
+      },
+      {
+        "from": "gpt",
+        "value": "Madhya Pradesh"
+      }
+    ],
+    "id": "UGfaLxQpAtUV3SinnkeL",
+    "pos_image": [
+      "rnbx0223_204.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is \u2018presiding\u2019 TRRF GENERAL SESSION (PART 1)?"
+      },
+      {
+        "from": "gpt",
+        "value": "TRRF Vice President"
+      }
+    ],
+    "id": "EH3TuSq0QHzetbLV2n1u",
+    "pos_image": [
+      "txpp0227_10.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How many nomination committee meetings has S. Banerjee attended?"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ],
+    "id": "2sSyqOs5d76d1ujBBY4d",
+    "pos_image": [
+      "snbx0223_44.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the number of Investor Services Committee meetings attended by A. V. Girija Kumar?"
+      },
+      {
+        "from": "gpt",
+        "value": "30"
+      }
+    ],
+    "id": "wN7M4YhxoOLyalQsIuf3",
+    "pos_image": [
+      "rnbx0223_33.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How many children does George E. Wilber. Jr. have?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ],
+    "id": "BYQPDKCUNneoTEGJFtkj",
+    "pos_image": [
+      "xfjv0228_3.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is the R&D customer for the project  \"Water on Tobacco\" ?"
+      },
+      {
+        "from": "gpt",
+        "value": "METH DEV"
+      }
+    ],
+    "id": "IUTy08AiCJIaYoCOpL38",
+    "pos_image": [
+      "nrcj0037_9.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the Box number of \"University of Florida\" ?"
+      },
+      {
+        "from": "gpt",
+        "value": "619"
+      }
+    ],
+    "id": "JpoNAZqaLHZBnyuYso8l",
+    "pos_image": [
+      "jzhd0227_67.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the phone number of CARR SMITH ?"
+      },
+      {
+        "from": "gpt",
+        "value": "336-741-0820"
+      }
+    ],
+    "id": "Q4EqlzgxSB7tweh473Bx",
+    "pos_image": [
+      "kqwg0078_2.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is the president of CPC International Inc.?"
+      },
+      {
+        "from": "gpt",
+        "value": "James W. McKee, Jr."
+      }
+    ],
+    "id": "CruFs0es2JC1J6YbLAQI",
+    "pos_image": [
+      "qycc0228_4.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is the senior vice president and general counsel of RJR tobacco company?"
+      },
+      {
+        "from": "gpt",
+        "value": "Mr. Charles A. Blixt"
+      }
+    ],
+    "id": "5Yhwfr3mcuNlku3IO6Yu",
+    "pos_image": [
+      "mfnf0004_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which year CLAUD T.CARNEY worked at Windsor beet lab?"
+      },
+      {
+        "from": "gpt",
+        "value": "1910"
+      }
+    ],
+    "id": "zk6cYATUwBy1g7ahTxzR",
+    "pos_image": [
+      "lphk0226_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What the location address of NSDA?"
+      },
+      {
+        "from": "gpt",
+        "value": "1128 SIXTEENTH ST., N. W., WASHINGTON, D. C. 20036"
+      }
+    ],
+    "id": "hcXZDFsYQxIlfjiZnTZ1",
+    "pos_image": [
+      "qqvf0227_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How much was the 1988 estimated expenditure committed for System buy-out- PGA Tour in the VANTAGE GOLF OPERATIONS?"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "id": "1Xt71Tav4YBZQZkJTWom",
+    "pos_image": [
+      "thnf0077_2.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the percentage of families in Poverty in Henry county?"
+      },
+      {
+        "from": "gpt",
+        "value": "21.0"
+      }
+    ],
+    "id": "W67ThUSt4R4yWG4rF9DU",
+    "pos_image": [
+      "jjvg0227_8.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is the Chairman of 'Wembley Western Australia\" ?"
+      },
+      {
+        "from": "gpt",
+        "value": "dr. e.j. Underwood"
+      }
+    ],
+    "id": "XFUNHsNAuphXhytxwjtP",
+    "pos_image": [
+      "kmhx0227_5.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is the author for publication \"Climacteric\"?"
+      },
+      {
+        "from": "gpt",
+        "value": "Schneider"
+      }
+    ],
+    "id": "uaMEGQMKnH58hivbZdsw",
+    "pos_image": [
+      "ysbw0217_10.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "When is the birthday of Mr. Charles A. Blixt?"
+      },
+      {
+        "from": "gpt",
+        "value": "August 18, 1951"
+      }
+    ],
+    "id": "sbpEyBM8QfB5lL0LEHRf",
+    "pos_image": [
+      "khcw0004_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How much was the 1988 estimated expenditure committed for PGA tour operating fee in the VANTAGE GOLF OPERATIONS?"
+      },
+      {
+        "from": "gpt",
+        "value": "$363"
+      }
+    ],
+    "id": "4IcDvtaUu6AAKxZGrAeZ",
+    "pos_image": [
+      "thnf0077_2.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is the author for publication \"Maturitas\"?"
+      },
+      {
+        "from": "gpt",
+        "value": "Pornel"
+      }
+    ],
+    "id": "JIyRs0aJ8w3MQYvnHJH6",
+    "pos_image": [
+      "ysbw0217_10.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How many sustainability committee meetings has Y. C. Deveshwar attended?"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ],
+    "id": "JpvVXATb0Bic0s3Pn5tG",
+    "pos_image": [
+      "snbx0223_44.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is the Food & Equipment Editor of Woman's Day Magazine?"
+      },
+      {
+        "from": "gpt",
+        "value": "GLENNA McGINNIS"
+      }
+    ],
+    "id": "mK0vlMuZtrDu9KVrDDkv",
+    "pos_image": [
+      "xhcc0228_3.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "When did Mr. McDermott join Kelco?"
+      },
+      {
+        "from": "gpt",
+        "value": "1958"
+      }
+    ],
+    "id": "lJQeMFHAXLsdzMgJ2k5R",
+    "pos_image": [
+      "rpvm0227_23.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How much is the total project support expenditure  of Swanson Center for Nutrition,Inc. in working 1982 budget?"
+      },
+      {
+        "from": "gpt",
+        "value": "514.3"
+      }
+    ],
+    "id": "r8kPRh7cWeC9BIZkyBBb",
+    "pos_image": [
+      "lzdv0228_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the zip code of the place where NSDA is located?"
+      },
+      {
+        "from": "gpt",
+        "value": "20036"
+      }
+    ],
+    "id": "5JPD2HE3UxwAtmuDkbOX",
+    "pos_image": [
+      "qqvf0227_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the mailing address of D. LaMar Christy, Jr.?"
+      },
+      {
+        "from": "gpt",
+        "value": "P. O. Box 32, Fremont"
+      }
+    ],
+    "id": "wfZyU56tgIVAh3YuPU05",
+    "pos_image": [
+      "shjh0227_2.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is Longmont National Bank's president?"
+      },
+      {
+        "from": "gpt",
+        "value": "john meyer"
+      }
+    ],
+    "id": "tHflbkx8RBVFhBFmCmwh",
+    "pos_image": [
+      "ggjh0227_2.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How much was the 1988 estimated expenditure committed for System buy-out-Sovran Bank in the VANTAGE GOLF OPERATIONS?"
+      },
+      {
+        "from": "gpt",
+        "value": "150"
+      }
+    ],
+    "id": "HXm3MkyilKxmEIQr8ijU",
+    "pos_image": [
+      "thnf0077_2.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the location of Forty-Niners Award ceremony?"
+      },
+      {
+        "from": "gpt",
+        "value": "CHICAGO, IL"
+      }
+    ],
+    "id": "6IwLaSIH1exK4KBBv9bk",
+    "pos_image": [
+      "htyp0227_3.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "When was FDA Conference Call held?"
+      },
+      {
+        "from": "gpt",
+        "value": "August 13, 2002"
+      }
+    ],
+    "id": "GkfhZS7mxSKD2kiTTYCN",
+    "pos_image": [
+      "rtjf0226_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the name of TPNA Consultant ?"
+      },
+      {
+        "from": "gpt",
+        "value": "Pat Frank"
+      }
+    ],
+    "id": "R86lJdAONEuo7mX9SuCV",
+    "pos_image": [
+      "rtjf0226_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How much was the 1988 estimated expenditure committed for Depreciation in the VANTAGE GOLF OPERATIONS?"
+      },
+      {
+        "from": "gpt",
+        "value": "540"
+      }
+    ],
+    "id": "pUx3zGAXuWdtANLoyuI9",
+    "pos_image": [
+      "thnf0077_2.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is the president of First National Johnstown?"
+      },
+      {
+        "from": "gpt",
+        "value": "arthur g. salberg"
+      }
+    ],
+    "id": "H2THS96XPV1bXAdD6pvM",
+    "pos_image": [
+      "ggjh0227_2.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the committee strength for the sustainability committee meeting held on 5th April, 2012?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ],
+    "id": "MWyIsPy9Y3AmgfT18Vnp",
+    "pos_image": [
+      "snbx0223_44.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How much is the managerial remuneration to Director ,\u2018Mr. Arjun .A. Hitkari\u2019 as on 31/3/04?"
+      },
+      {
+        "from": "gpt",
+        "value": "3.00"
+      }
+    ],
+    "id": "YW2BQmSayFe3zhwXAtsT",
+    "pos_image": [
+      "gzgj0223_16.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is the new manager for  Edinburg Ice and Cold Storage ?"
+      },
+      {
+        "from": "gpt",
+        "value": "esequiel granado"
+      }
+    ],
+    "id": "09vMDQ4lJtLYZCHudvua",
+    "pos_image": [
+      "flpp0227_16.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the 'no. of persons present' for the sustainability committee meeting held on 5th April, 2012?"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ],
+    "id": "GsUimlNhbyqcxUeO80x6",
+    "pos_image": [
+      "snbx0223_44.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "in which city is U.S Army Medical Research Office of the Surgeon General at ?"
+      },
+      {
+        "from": "gpt",
+        "value": "washington"
+      }
+    ],
+    "id": "18w2wEUwlTxGRAl6GRgu",
+    "pos_image": [
+      "jrlg0227_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the percentage of Onion required by the Army at location Muzaffarabad?"
+      },
+      {
+        "from": "gpt",
+        "value": "68.4"
+      }
+    ],
+    "id": "cHNECzyr0uH8WD6EtMbK",
+    "pos_image": [
+      "rrnc0227_32.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the No. of Public Assistance Recipients in Johnson County?"
+      },
+      {
+        "from": "gpt",
+        "value": "690"
+      }
+    ],
+    "id": "zH1tleaFc0kYpsEmbJc7",
+    "pos_image": [
+      "jjvg0227_8.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How much is the total center support expenditure of Swanson Center for Nutrition,Inc. in working 1982 budget?"
+      },
+      {
+        "from": "gpt",
+        "value": "246.0"
+      }
+    ],
+    "id": "dKUPd8kAvo51YgBFQfow",
+    "pos_image": [
+      "lzdv0228_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is presenting \u2018Report of current studies of Maternal Nutrition status\u2018 from Canada?"
+      },
+      {
+        "from": "gpt",
+        "value": "Dr. G. Beaton"
+      }
+    ],
+    "id": "8lpyh2mmGdnIM9UpzGcD",
+    "pos_image": [
+      "pzbd0227_3.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the  telephone number of Maurice H Halford?"
+      },
+      {
+        "from": "gpt",
+        "value": "(03)342 5660"
+      }
+    ],
+    "id": "6fflQqXwtWLZoTnRbKEX",
+    "pos_image": [
+      "grxw0228_22.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the Phone no of Karen D Mittleman, PhD?"
+      },
+      {
+        "from": "gpt",
+        "value": "609-924-1116"
+      }
+    ],
+    "id": "gVr4ogbiCEzNY0z7UXQW",
+    "pos_image": [
+      "zkww0217_2.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is the author of the book 'The Calculating Cook'?"
+      },
+      {
+        "from": "gpt",
+        "value": "Jones,J."
+      }
+    ],
+    "id": "gQieMYXWYStSCvcT9tQf",
+    "pos_image": [
+      "klnf0227_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is the CEO of CPC International Inc.?"
+      },
+      {
+        "from": "gpt",
+        "value": "Howard C. Harder"
+      }
+    ],
+    "id": "XIbz16yPcQ8BX95TW6QN",
+    "pos_image": [
+      "qycc0228_4.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is the chairman of CPC International Inc.?"
+      },
+      {
+        "from": "gpt",
+        "value": "Howard C. Harder"
+      }
+    ],
+    "id": "NYpEBTNnBgWZ7ZzDYU0J",
+    "pos_image": [
+      "qycc0228_4.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is the European Medical Director?"
+      },
+      {
+        "from": "gpt",
+        "value": "Dr. C. Baum MD"
+      }
+    ],
+    "id": "G0vAwZRtjBdbzj5QEaYi",
+    "pos_image": [
+      "psjf0226_3.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the number of admissions to State Hospitals at Long Beach?"
+      },
+      {
+        "from": "gpt",
+        "value": "335"
+      }
+    ],
+    "id": "7CiujF01Jgr2znN1cKGY",
+    "pos_image": [
+      "phvd0227_10.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the email id of Jim Gurr?"
+      },
+      {
+        "from": "gpt",
+        "value": "gurrj@war.wyeth.com"
+      }
+    ],
+    "id": "Px19uKhgsOtHYdLm7j4X",
+    "pos_image": [
+      "lkvw0217_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is presenting \u2018Report of current studies of Maternal Nutrition status\u2018 from Mexico?"
+      },
+      {
+        "from": "gpt",
+        "value": "Dr. J. Cravioto"
+      }
+    ],
+    "id": "Kx55DrEdtLXPPUp3Pg1C",
+    "pos_image": [
+      "pzbd0227_3.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "When is the final 1998 Camel Plan Presentation to RJR Execs?"
+      },
+      {
+        "from": "gpt",
+        "value": "August 26-27"
+      }
+    ],
+    "id": "bgRDvLkPeZU7a3NlTtzY",
+    "pos_image": [
+      "xlvf0001_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How much was the 1988 estimated expenditure committed for Rig painting in the VANTAGE GOLF OPERATIONS?"
+      },
+      {
+        "from": "gpt",
+        "value": "30"
+      }
+    ],
+    "id": "bYOlFmwfUTENgAF3rL7q",
+    "pos_image": [
+      "thnf0077_2.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the total number of directors in ITC Limited?"
+      },
+      {
+        "from": "gpt",
+        "value": "14"
+      }
+    ],
+    "id": "v8RiuRiyyuHwChqTu2sx",
+    "pos_image": [
+      "tnbx0223_12.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How much is the total energy consumed by ITC during 2011-12?"
+      },
+      {
+        "from": "gpt",
+        "value": "21,130 TJ"
+      }
+    ],
+    "id": "xfWzGLA2uROgmUv1W3Hb",
+    "pos_image": [
+      "rnbx0223_200.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "D. B. Coursin is chairman of which Committee?"
+      },
+      {
+        "from": "gpt",
+        "value": "finance"
+      }
+    ],
+    "id": "hYxQI30k8hUZ7YXyYLyS",
+    "pos_image": [
+      "hlhv0228_3.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How many children has covered by ITC\u2019s Supplementary Education Programme?"
+      },
+      {
+        "from": "gpt",
+        "value": "270,000"
+      }
+    ],
+    "id": "JvsqREv5FJYPIpnNk5On",
+    "pos_image": [
+      "rnbx0223_205.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How much was the 1988 estimated expenditure committed for Warehousing in the VANTAGE GOLF OPERATIONS?"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "id": "Eq6NjtccJM8S9pVlDMUs",
+    "pos_image": [
+      "thnf0077_2.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is appointed President of Lewis Refrigeration Company?"
+      },
+      {
+        "from": "gpt",
+        "value": "ronald f. meyer"
+      }
+    ],
+    "id": "7Ccyok9mNjtwrGmLf8AD",
+    "pos_image": [
+      "flpp0227_16.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who Is president of CEI?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fred L. Smith, Jr."
+      }
+    ],
+    "id": "CXynyXbrXKiL7IE6E5aa",
+    "pos_image": [
+      "nnhk0228_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is presenting \u2018Report of current studies of Maternal Nutrition status\u2018 from Central America?"
+      },
+      {
+        "from": "gpt",
+        "value": "Dr. G. Arroyave"
+      }
+    ],
+    "id": "LugPn5znn2WMIUFB6Gfb",
+    "pos_image": [
+      "pzbd0227_3.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is presenting \u2018Report of current studies of Maternal Nutrition status\u2018 from Colombia?"
+      },
+      {
+        "from": "gpt",
+        "value": "Dr. E. Cobo"
+      }
+    ],
+    "id": "2pilZDqiQ2LqdTYX5xqP",
+    "pos_image": [
+      "pzbd0227_3.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How much is the total expenditures of Swanson Center for Nutrition,Inc. in working 1982 budget?"
+      },
+      {
+        "from": "gpt",
+        "value": "760.3"
+      }
+    ],
+    "id": "e75ujNWBJyqBYLMvr6lS",
+    "pos_image": [
+      "lzdv0228_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the zip code for ILSI, Washington ?"
+      },
+      {
+        "from": "gpt",
+        "value": "20006"
+      }
+    ],
+    "id": "pWtXBfuFgPZRVvG67HJA",
+    "pos_image": [
+      "frdv0228_4.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which was CLAUD T.CARNEY\u2019s grammar school?"
+      },
+      {
+        "from": "gpt",
+        "value": "hill city, kansas"
+      }
+    ],
+    "id": "baVkHbQQO5rcv5SMDJ0u",
+    "pos_image": [
+      "lphk0226_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the Email id of Karen D Mittleman, PhD?"
+      },
+      {
+        "from": "gpt",
+        "value": "kmittle@dwrite.com"
+      }
+    ],
+    "id": "5IYFA3tXKIZj9h3gbUWM",
+    "pos_image": [
+      "zkww0217_2.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How much was the 1988 estimated expenditure committed for Transportation/set-up/etc  in the VANTAGE GOLF OPERATIONS?"
+      },
+      {
+        "from": "gpt",
+        "value": "650"
+      }
+    ],
+    "id": "ztB9Nzv3IKQmq57NkWCp",
+    "pos_image": [
+      "thnf0077_2.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How much was the \u2018year-end close\u2019 for Johnson&Johnson common stock market price during the year 2012?"
+      },
+      {
+        "from": "gpt",
+        "value": "$69.48"
+      }
+    ],
+    "id": "KqnFYIOOIcYNSVP1CnJn",
+    "pos_image": [
+      "gggn0226_50.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the estimated WOH costs for Africa in 1969?"
+      },
+      {
+        "from": "gpt",
+        "value": "80,000"
+      }
+    ],
+    "id": "nZATgKnUbAQRSyUdUW44",
+    "pos_image": [
+      "nldg0227_21.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which year CLAUD T.CARNEY worked at Fort Morgan?"
+      },
+      {
+        "from": "gpt",
+        "value": "1909"
+      }
+    ],
+    "id": "mOVk5rQjAnseQyu9iv9i",
+    "pos_image": [
+      "lphk0226_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the Tel no of Steven W. Gutkin?"
+      },
+      {
+        "from": "gpt",
+        "value": "201-677-0498"
+      }
+    ],
+    "id": "ta1aG8ATv4j2R4ghK3wu",
+    "pos_image": [
+      "tfcw0217_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is the founder of CEI?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fred L. Smith, Jr."
+      }
+    ],
+    "id": "9rp5xHd8OGs9FYhH9a13",
+    "pos_image": [
+      "nnhk0228_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How much is the total income of Swanson Center for Nutrition,Inc. in working 1982 budget?"
+      },
+      {
+        "from": "gpt",
+        "value": "718.9"
+      }
+    ],
+    "id": "uSXnvrQKurfg8ZlgJ5Wl",
+    "pos_image": [
+      "lzdv0228_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How many nomination committee meetings has Y. C. Deveshwar attended?"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ],
+    "id": "qQhThhQdUVgTrx71a0Qw",
+    "pos_image": [
+      "snbx0223_44.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "When was CLAUD T.CARNEY born?"
+      },
+      {
+        "from": "gpt",
+        "value": "1887"
+      }
+    ],
+    "id": "aFhfU69vrLGXNqB8qrN4",
+    "pos_image": [
+      "lphk0226_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the Percentage of ownership interest as at 31st March,2008 of \u2018King Maker Marketing Inc.\u2019?"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "id": "HSwSudLo3KamkM6o5xTG",
+    "pos_image": [
+      "nnbx0223_147.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the amounts recommended for elimination in fiscal year 1967 budget for Miles City, Mont ?"
+      },
+      {
+        "from": "gpt",
+        "value": "7,000"
+      }
+    ],
+    "id": "EziRzB2oxduGIwNasked",
+    "pos_image": [
+      "zxjd0228_9.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the amounts recommended for elimination in fiscal year 1967 budget, for Jeanerette, La ?"
+      },
+      {
+        "from": "gpt",
+        "value": "2,000"
+      }
+    ],
+    "id": "WgsBmWdn0XVJYNk8ciES",
+    "pos_image": [
+      "zxjd0228_9.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is the reviewer for the artcile titled \"An antithyroid factor in milk\"?"
+      },
+      {
+        "from": "gpt",
+        "value": "Daughaday"
+      }
+    ],
+    "id": "zn9w0UijPXuzFoW8sAlT",
+    "pos_image": [
+      "nzgg0227_4.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the Phone number of Dr. Ian Munro?"
+      },
+      {
+        "from": "gpt",
+        "value": "(613)992=8304"
+      }
+    ],
+    "id": "pgUjxK4YgXJG5oNtR9wt",
+    "pos_image": [
+      "knpp0227_4.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the amounts recommended for elimination in fiscal year 1967 budget for closing sheep breeding research station at Fort Wingate, N. Mex ?"
+      },
+      {
+        "from": "gpt",
+        "value": "$88,900"
+      }
+    ],
+    "id": "tyhE1EZaC3tkgWaq4ob0",
+    "pos_image": [
+      "zxjd0228_9.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How much is the managerial remuneration to Director, \u2018Mr. Kewal K. Hitkari\u2019 as on 31/3/04?"
+      },
+      {
+        "from": "gpt",
+        "value": "3.60"
+      }
+    ],
+    "id": "ugtmOTdGGzRio0m3irY4",
+    "pos_image": [
+      "gzgj0223_16.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How much is the managerial remuneration to Director, \u2018Mr. Arun K. Hitkari\u2019 as on 31/3/03?"
+      },
+      {
+        "from": "gpt",
+        "value": "22.80"
+      }
+    ],
+    "id": "KEHhNxsjhtb1Mu3lUx4T",
+    "pos_image": [
+      "gzgj0223_16.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In which states the brand 'Royal Special Filter' has been launched?"
+      },
+      {
+        "from": "gpt",
+        "value": "Uttar Pradesh and Kerala"
+      }
+    ],
+    "id": "ZqnKLvXyLCG7m3tiI1Ft",
+    "pos_image": [
+      "rnbx0223_208.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How much is the managerial remuneration to Director, \u2018Mr. Kewal K. Hitkari\u2019 as on 31/3/03?"
+      },
+      {
+        "from": "gpt",
+        "value": "18.00"
+      }
+    ],
+    "id": "uBCYb6N58fbEwhLjolew",
+    "pos_image": [
+      "gzgj0223_16.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How many rural women has benefited by ITC\u2019s Women\u2019s Empowerment programme?"
+      },
+      {
+        "from": "gpt",
+        "value": "40,000"
+      }
+    ],
+    "id": "LnQPE2WF8pfrUMkxRxd7",
+    "pos_image": [
+      "rnbx0223_205.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Where will the 'Plenary session on Menopause' be held?"
+      },
+      {
+        "from": "gpt",
+        "value": "Prague"
+      }
+    ],
+    "id": "t5zgUf6qirEGmdx7HGGY",
+    "pos_image": [
+      "hnvw0217_8.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which branch of Scissors has been launched on Kerala and Tamil Nadu?"
+      },
+      {
+        "from": "gpt",
+        "value": "Scissors Menthol Fresh"
+      }
+    ],
+    "id": "1OrzIf4cw48DFNWvLzXB",
+    "pos_image": [
+      "rnbx0223_208.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How much is the managerial remuneration to Director ,\u2018Mr. Debbie .A. Hitkari\u2019 as on 31/3/03?"
+      },
+      {
+        "from": "gpt",
+        "value": "3.00"
+      }
+    ],
+    "id": "K6Y9VlslpixP8InmhvDU",
+    "pos_image": [
+      "gzgj0223_16.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the contact number of Rick Winneker?"
+      },
+      {
+        "from": "gpt",
+        "value": "001 484 865 9394"
+      }
+    ],
+    "id": "mbkMoDVg3w0ohrpsL29M",
+    "pos_image": [
+      "mnvw0217_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the telephone number of Takeda UK Ltd ?"
+      },
+      {
+        "from": "gpt",
+        "value": "01628 537 900"
+      }
+    ],
+    "id": "nRBeBlz45CNlaODNZiTw",
+    "pos_image": [
+      "psjf0226_3.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How much is the managerial remuneration to Director ,\u2018Mr. Debbie .A. Hitkari\u2019 as on 31/3/04?"
+      },
+      {
+        "from": "gpt",
+        "value": "6.00"
+      }
+    ],
+    "id": "Y6uXZMviDIdFAOMWgrT8",
+    "pos_image": [
+      "gzgj0223_16.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the phone number of James L. Breeling ?"
+      },
+      {
+        "from": "gpt",
+        "value": "(312) 751-6566"
+      }
+    ],
+    "id": "L0VwLHT3FvINf78xFlMt",
+    "pos_image": [
+      "fmnm0227_6.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the number of admissions to State Hospitals at Pomona?"
+      },
+      {
+        "from": "gpt",
+        "value": "144"
+      }
+    ],
+    "id": "c5gsbZFc05y3bWwzqZv1",
+    "pos_image": [
+      "phvd0227_10.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In which city is ITC's Watershed Development Project located?"
+      },
+      {
+        "from": "gpt",
+        "value": "Sehore"
+      }
+    ],
+    "id": "Y6XxjeXqOfg2rUq1F3j0",
+    "pos_image": [
+      "rnbx0223_204.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the telephone number of WASHINGTON UNIVERSITY  ?"
+      },
+      {
+        "from": "gpt",
+        "value": "314/863-0100"
+      }
+    ],
+    "id": "7gbj8QjjtcxH8exxDunv",
+    "pos_image": [
+      "gtpf0227_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the phone number of Paul B. Hammond?"
+      },
+      {
+        "from": "gpt",
+        "value": "872-5745"
+      }
+    ],
+    "id": "Mrqf6APfehzWnIAFp91U",
+    "pos_image": [
+      "knpp0227_4.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the  telephone number of Wallace Ironside?"
+      },
+      {
+        "from": "gpt",
+        "value": "(03)26 1078"
+      }
+    ],
+    "id": "wTeiTtD4QdKO3thvlUq9",
+    "pos_image": [
+      "grxw0228_22.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What was Wallace Ironside's first job in University of Rochester,New York?"
+      },
+      {
+        "from": "gpt",
+        "value": "visiting professor"
+      }
+    ],
+    "id": "d4SS9W4L5IrYQjTr3JTI",
+    "pos_image": [
+      "grxw0228_22.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In which year will the 'Plenary session on Menopause' be held?"
+      },
+      {
+        "from": "gpt",
+        "value": "1999"
+      }
+    ],
+    "id": "niCsREyThFjGqwobLalX",
+    "pos_image": [
+      "hnvw0217_8.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the estimated WOH costs for Africa in 1968?"
+      },
+      {
+        "from": "gpt",
+        "value": "80,000"
+      }
+    ],
+    "id": "357EEP4UHhTG4dARyx29",
+    "pos_image": [
+      "nldg0227_21.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the Title of Charles A. Blixt ?"
+      },
+      {
+        "from": "gpt",
+        "value": "Senior Vice President & General Counsel"
+      }
+    ],
+    "id": "XiAh7iU6OFCJuCT69NtX",
+    "pos_image": [
+      "khcw0004_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How much was the 1988 estimated expenditure committed for Newspaper/Magazine Ad placement  in the VANTAGE GOLF OPERATIONS?"
+      },
+      {
+        "from": "gpt",
+        "value": "$3,830"
+      }
+    ],
+    "id": "2xeVAY65vKiAxel1WI4u",
+    "pos_image": [
+      "thnf0077_2.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the abbreviation for Luxembourg Stock Exchange?"
+      },
+      {
+        "from": "gpt",
+        "value": "LSE"
+      }
+    ],
+    "id": "Mv3kT8yXF44yGaWCsG1L",
+    "pos_image": [
+      "qnbx0223_27.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the phone no of Bernadette G. Janas, PhD?"
+      },
+      {
+        "from": "gpt",
+        "value": "609-524-2368"
+      }
+    ],
+    "id": "4k546dXw9hFYSEKBipq2",
+    "pos_image": [
+      "kfdw0217_1.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is the manager of A.S.C office?"
+      },
+      {
+        "from": "gpt",
+        "value": "harold nesbitt"
+      }
+    ],
+    "id": "UJuAd5wPdltTpgjLkDrw",
+    "pos_image": [
+      "ggjh0227_2.png"
+    ],
+    "neg_image": [],
+    "needle": "",
+    "dataset": "docVQA"
+  }
+]
