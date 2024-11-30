@@ -13,21 +13,23 @@ def load_dataset(anns_path, v_RAG = False, retrival_path = ''):
     preprocesses = []
     for source in sources:
         
-        retrieval = json.load(open(os.path.join(retrival_path, '.'.join(source["pos_image"][0].split('.')[:-1] + ["json"])), 'r')) if v_RAG else None
+        retrieval = json.load(open(os.path.join(retrival_path, f"{source['id']}.json"), 'r')) if v_RAG else None
 
         if v_RAG:
-            assert source["pos_image"][0] == retrieval["real_positive_image"], f"paired image should be the same for the same question, but given {source['pos_image'][0]} and {retrieval['real_positive_image']}"
+            assert '.'.join(source["pos_image"][0].split('.')[:-1]) == retrieval["real_positive_image"], f"paired image should be the same for the same question, but given {source['pos_image'][0]} and {retrieval['real_positive_image']}"
             preprocesses.append({
                 "question": source["conversations"][0]["value"],
                 "ground_truth": source["conversations"][1]["value"],
                 "imageId": source["pos_image"][0],
-                "retrieved_image": retrieval["top_5_images"]
+                "retrieved_image": retrieval["top_10_images"],
+                "id": source["id"]
             })
         else:       
             preprocesses.append({
                 "question": source["conversations"][0]["value"],
                 "ground_truth": source["conversations"][1]["value"],
                 "imageId": source["pos_image"][0],
+                "id": source["id"]
             })
             
     return preprocesses
@@ -42,8 +44,28 @@ def loop_whole_images(dataset, image_path):
 
     return images
 
+def set_seed(seed):
+    """Set the seed for reproducibility."""
+
+    import random, os
+    import numpy as np
+    import torch
+    
+    random.seed(seed)
+    os.environ['PYTHONHASHSEED'] = str(seed)
+    np.random.seed(seed)
+    torch.manual_seed(seed)
+    torch.cuda.manual_seed(seed)
+    torch.backends.cudnn.deterministic = True
+    torch.backends.cudnn.benchmark = True
+
 def main(args):
     
+    # seed everything
+    set_seed(args.seed)
+    
+    image_path = os.path.join(args.image_path, args.dataset.replace('-', '_'))
+
     # load dataset
     sources = load_dataset(args.anns_path, args.v_RAG, args.retrival_path)
     targets = []
@@ -69,12 +91,13 @@ def main(args):
                 break
 
             # process image, every question retrieve different image
-            imgs_path = [os.path.join(args.image_path, img_path) for img_path in source["retrieved_image"][:args.topk]]
+            imgs_path = [os.path.join(image_path, img_path) for img_path in source["retrieved_image"][:args.topk]]
             images = model.batch_image(imgs_path)
-            assert len(images) == args.topk, f"images should be {args.topk}, but given {len(images)}"
+            assert len(images) <= args.topk, f"images should be {args.topk}, but given {len(images)}"
             response = model.generate(source["question"], images)
             
             targets.append({
+                "id": source["id"],
                 "imageId": source["imageId"],
                 "retrieved_image": [img_path for img_path in source["retrieved_image"][:args.topk]],
                 "question": source["question"],
@@ -87,7 +110,8 @@ def main(args):
     else:
 
         # process image first, because the images is the same (the whole dataset) for all questions
-        image_path = loop_whole_images(args.dataset, args.image_path)
+        # image_path = loop_whole_images(args.dataset, args.image_path)
+        image_path = [os.path.join(image_path, img) for img in os.listdir(image_path)]
         images = model.batch_image(image_path)
 
         # response per question
@@ -99,6 +123,7 @@ def main(args):
             response = model.generate(source["question"], images)
             
             targets.append({
+                "id": source["id"],
                 "imageId": source["imageId"],
                 "question": source["question"],
                 "ground_truth": source["ground_truth"],
@@ -124,6 +149,7 @@ if __name__ == "__main__":
     args.add_argument("--topk", type = int, default = 5, help = "answer with the top k images")
     args.add_argument("--prompt", type = str, default = None, help = "if you want to format the output, set it as: Answer the question using a single word or phrase.")
     args.add_argument("--debug", action = "store_true")
+    args.add_argument("--seed", type = int, default = 42, help = "set seed for reproducibility")
     args.add_argument("--anns_path", type = str, default = "./data/test_docVQA.json")
     args.add_argument("--image_path", type = str, default = "./data/Test")
     args.add_argument("--retrival_path", type = str, default = None, help = "path to the retrival images")

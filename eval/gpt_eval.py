@@ -2,6 +2,7 @@ from openai import OpenAI
 import json
 from tqdm import tqdm
 import argparse
+import re
 
 class GPTEVAL:
     
@@ -47,6 +48,7 @@ class GPTEVAL:
                 )
                 eval_result = completion.choices[0].message.content
             
+            eval_result = re.sub(r'[^a-zA-Z]', '', eval_result)
             if eval_result.lower() == "correct":
                 accuracy += 1
             summary += 1

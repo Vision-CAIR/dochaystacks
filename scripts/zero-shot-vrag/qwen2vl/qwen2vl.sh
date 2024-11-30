@@ -19,4 +19,4 @@ python model/main.py --model_name $MODEL \
                      --outpath $OUTPUT
 
 python eval/gpt_eval.py --api_key gpt-4o-mini \
-                        --outpath ${OUTPUT}/${TASK}_${MODEL}.json \
+                        --outpath ${OUTPUT}/${TASK}_${MODEL}_top_${TOPK}.json \

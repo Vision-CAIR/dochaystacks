@@ -16,8 +16,8 @@ python model/main.py --model_name $MODEL \
                      --anns_path ./data/${ANN}.json \
                      --image_path ./data/Test \
                      --retrival_path $RETRIVAL \
-                     --pretrained Qwen/Qwen2-VL-7B-Instruct \
+                     --pretrained lmms-lab/llava-onevision-qwen2-7b-ov \
                      --outpath $OUTPUT
 
 python eval/gpt_eval.py --api_key gpt-4o-mini \
-                        --outpath ${OUTPUT}/${TASK}_${MODEL}.json \
+                        --outpath ${OUTPUT}/${TASK}_${MODEL}_top_${TOPK}.json \
