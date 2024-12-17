@@ -135,9 +135,7 @@ We fine-tune Qwen2-VL on our curated dataset using [LLaMA-Factory](https://githu
 
 Our repository builds on [Qwen2-VL](https://github.com/QwenLM/Qwen2-VL), [LLaVA-OneVision](https://llava-vl.github.io/blog/2024-08-05-llava-onevision/), [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory), GPT-4o, Gemini. Thanks for them!
 
-***
 
-<span id = 'contact'/>
 
 ***
 
@@ -155,6 +153,9 @@ If you find our paper and code helpful, we would greatly appreciate it if you co
   year={2024}
 }
 ```
+***
+
+<span id = 'contact'/>
 
 ## Contact
 
