@@ -102,7 +102,6 @@ sh scripts/zero-shot/gemini/*.sh
 
 ## Visual-Centric Retrieval
 
-#### set the dataset folder path for each dataset
 sh scripts/retrieval/*.sh
 
 ***

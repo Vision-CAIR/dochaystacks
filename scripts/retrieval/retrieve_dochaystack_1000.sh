@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DATASET_FOLDER="/path/to/dataset/folder"
+DATASET_FOLDER="./data"
 DATASET_FILE="$DATASET_FOLDER/test_docVQA.json"
 IMAGE_ROOT="$DATASET_FOLDER/Test"
 IMAGE_DIR="DocHaystack_1000"
