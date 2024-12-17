@@ -34,22 +34,7 @@ While large multimodal models (LMMs) have achieved impressive progress in vision
 <img src="./assets/benchmark.png" width = 100% heigth = 100%>
 </div>
 
-***
 
-<span id = 'citation'/>
-
-## Citation
-
-If you find our paper and code helpful, we would greatly appreciate it if you could leave a star and cite our work. Thanks!
-
-```bibtex
-@article{chen2024document,
-  title={Document Haystacks: Vision-Language Reasoning Over Piles of 1000+ Documents},
-  author={Chen, Jun and Xu, Dannong and Fei, Junjie and Feng, Chun-Mei and Elhoseiny, Mohamed},
-  journal={arXiv preprint arXiv:2411.16740},
-  year={2024}
-}
-```
 
 ***
 
@@ -153,6 +138,23 @@ Our repository builds on [Qwen2-VL](https://github.com/QwenLM/Qwen2-VL), [LLaVA-
 ***
 
 <span id = 'contact'/>
+
+***
+
+<span id = 'citation'/>
+
+## Citation
+
+If you find our paper and code helpful, we would greatly appreciate it if you could leave a star and cite our work. Thanks!
+
+```bibtex
+@article{chen2024document,
+  title={Document Haystacks: Vision-Language Reasoning Over Piles of 1000+ Documents},
+  author={Chen, Jun and Xu, Dannong and Fei, Junjie and Feng, Chun-Mei and Elhoseiny, Mohamed},
+  journal={arXiv preprint arXiv:2411.16740},
+  year={2024}
+}
+```
 
 ## Contact
 
