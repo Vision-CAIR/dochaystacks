@@ -7,7 +7,7 @@ The official implementation of our paper: [*Document Haystacks: Vision-Language 
 <div align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv-2307.16525-b31b1b.svg)](https://arxiv.org/abs/2411.16740)
-[![benchmark](https://img.shields.io/badge/%F0%9F%A4%97%20_Benchmark-DocHaystack-ffc107?color=ffc107&logoColor=white)](https://huggingface.co/)
+[![benchmark](https://img.shields.io/badge/%F0%9F%A4%97%20_Benchmark-DocHaystack-ffc107?color=ffc107&logoColor=white)](https://huggingface.co/datasets/DanielXu0208/Document_Haystacks)
 
 </div>
 
@@ -42,7 +42,7 @@ While large multimodal models (LMMs) have achieved impressive progress in vision
 
 ## Data Preparation
 
-First, we should download the DocHaystack and InfoHaystack Benchmarks from [Huggingface 🤗](https://huggingface.co/), respectively. Then, place the downloaded benchmarks into the `data/*` directory. The data should be organized in the following format:
+First, we should download the DocHaystack and InfoHaystack Benchmarks from [Huggingface 🤗](https://huggingface.co/datasets/DanielXu0208/Document_Haystacks), respectively. Then, place the downloaded benchmarks into the `data/*` directory. The data should be organized in the following format:
 
 ```
 ├── dochaystacks
