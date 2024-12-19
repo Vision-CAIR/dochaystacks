@@ -1,6 +1,6 @@
 ## Document Haystacks: Vision-Language Reasoning Over Piles of 1000+ Documents
 
-**Authors**: [Jun Chen](https://junchen14.github.io/), Dannong Xu, [Junjie Fei](https://feielysia.github.io/), [Chun-Mei Feng](https://scholar.google.com.hk/citations?user=g2nqHBcAAAAJ&hl=zh-CN), [Mohamed Elhoseiny](https://scholar.google.com/citations?user=iRBUTOAAAAAJ&hl=en)
+**Authors**: [Jun Chen](https://junchen14.github.io/), [Dannong Xu](https://danielxu0208.github.io/), [Junjie Fei](https://feielysia.github.io/), [Chun-Mei Feng](https://scholar.google.com.hk/citations?user=g2nqHBcAAAAJ&hl=zh-CN), [Mohamed Elhoseiny](https://scholar.google.com/citations?user=iRBUTOAAAAAJ&hl=en)
 
 The official implementation of our paper: [*Document Haystacks: Vision-Language Reasoning Over Piles of 1000+ Documents*](https://arxiv.org/pdf/2411.16740).
 
