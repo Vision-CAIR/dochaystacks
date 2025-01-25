@@ -260,7 +260,7 @@ if __name__ == "__main__":
     parser.add_argument('--use_question_query', action='store_true', help="Use question as the query instead of needle word")
     args = parser.parse_args()
 
-    solver = CombinedSolver(clip_model_name='openai/clip-vit-large-patch14', siglip_model_name="google/siglip-so400m-patch14-384", image_root=args.image_root, image_dir=args.image_dir)
+    solver = CombinedSolver(clip_model_name='openai/clip-vit-large-patch14', siglip_model_name="google/siglip-so400m-patch14-384", image_root=args.image_root, image_dir=args.image_dir, use_question_query=args.use_question_query)
     solver.process_dataset(args.dataset_file, args.output_dir, top_k_filter=args.top_k_filter)
 
 
